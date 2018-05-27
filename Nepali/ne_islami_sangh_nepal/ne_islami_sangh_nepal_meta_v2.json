@@ -1,0 +1,37 @@
+{
+    "name":"क़ुरआन मजीदको अर्थको नेपाली अनुवाद",
+    "nameEn":"Nepali Translation of the Meaning of The Quran Majeed",
+    
+    "language":"नेपाली",
+    "languageEn":"Nepali",
+    "languageISO1":"ne",
+    "languageISO3":"nep",
+
+    "author":"इस्लामी संघ नेपाल",
+    "authorEn":"Islami Sangh Nepal",
+    "authorEmail":"isanghnp@gmail.com",
+    "authorAbout":null,
+    "authorAboutEn": "Islami Sangh Nepal (previously known as Islami Yuwa Sangh Nepal) was founded on 26th Jan 1985 with the purpose of striving to establish Islam in its totality, in all aspects of human life. Islam provides the best meaning of equity and justice, welfare and reform, progress and prosperity, irrespective of race, region, or language.\nThe organization is based on the slogan \"La ilaha Illallahu Muhammadur -Rasoolullah {there is no lord but only Almighty Allah and Muhammad (pbuh) is the messenger of Allah}.\" Our ultimate motive is to seek the pleasure of Allah. We strongly believe and advocate that our success in this world and Hereafter could be possible only by following the Commandments of the Holy Quran and the Sunnah of Prophet Muhammad (Peace be upon Him).\nThis organization is of the firm conviction that Islam alone offers the best and most suitable solution to the problems faced by the country, including the crisis of thought and action which has gripped the ethical, social, economic and political aspects of life. We believe that the unity and brotherhood among all the Muslims are the pre-requisites of our victory over the evil forces.\nThe ISN, for attainment of its objective, is bounded principally by the Quran and the Sunnah. In the light of these sources, the organization adopts ethical, constructive, peaceful, democratic and constitutional means. It refrains from such activities, which are opposed to truth and honesty, or which are likely to provoke communal hatred, class conflict or social disorder. Alhamdulillah, today this organization in its mission has touched all the seven states of Nepal. ISN is now become the distinguished and only organization, which is truly involved in manifold activities throughout the country. It has also become the most popular organization among the Muslims of Nepal because of its sincere and selfless efforts and endeavor of not being involved in the ‘Maslaki’, sectarian and organizational differences.",
+
+    "about":null,
+    "aboutEn":null,
+    
+    "version":"1.0",
+    "reviewer":"Azizullah Ansari",
+    "reviewerEmail":"aziznepali@gmail.com",
+    "approver": "Azizullah Ansari",
+    "approverEmail": "aziznepali@gmail.com",
+    
+    "firstPublished":"2018-05-09",
+    "lastUpdated":"2018-05-09",
+
+    "dataPreparer":"quranacademy.org",
+    "dataPreparerEmail":"hqaweb@gmail.com",
+    "latestVersionSrc":"https://ne.quranacademy.org/quran",
+    "latestVersionSrcAlt":"https://github.com/alquran-foundation/translations",
+
+    "contactEmails": ["aziznepali@gmail.com", "isanghnp@gmail.com", "themessagektm@gmail.com", "hqaweb@gmail.com"],
+
+    "license":"TBD",
+    "licenseSpecialConditions":null
+}
